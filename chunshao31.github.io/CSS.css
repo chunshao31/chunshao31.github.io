@@ -1,0 +1,44 @@
+.head{
+	width: 98.57%;
+	background-color: #4d4c4c;
+	margin-top: -10px;
+	margin-left: -10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	position: sticky;
+	top: 0;
+}
+.head li{
+	vertical-align: top;
+	display: inline-block;
+	margin-left: 5px;
+}
+.head li a{
+	text-decoration: none;
+	background-color: #4d4c4c;
+	color: white;
+	font-size: 1.3em;
+	margin-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.head li a:hover{
+	background-color: red;
+}
+p {
+  font-size: 200%;
+  font-family: Comic Sans MS;
+  color:black;
+}
+h1{
+  color: black;
+  font-family: Comic Sans MS;
+}
+h2{
+  color: black;
+  font-family: Comic Sans MS;
+}
+h3{
+  color: black; 
+  font-family: Comic Sans MS; 
+}
