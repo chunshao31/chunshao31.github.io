@@ -1,0 +1,65 @@
+/*head buttons*/
+.head{
+	width: 98.57%;
+	background-color: #4d4c4c;
+	margin-top: -10px;
+	margin-left: -10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	position: sticky;
+	top: 0;
+}
+.head li{\
+	vertical-align: top;
+	display: inline-block;
+	margin-left: 5px;
+}
+.head li a{
+	text-decoration: none;
+	background-color: #4d4c4c;
+	color: white;
+	font-size: 1.3em;
+	margin-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.head li a:hover{
+	background-color: red;
+}
+
+/*sandbox background*/
+#sb{
+	background-image: url("PEoxn1.jpg");
+	background-size: 100% 100%;
+}
+/*sport background*/
+#sp{
+	background-image: url("SS-Academy-Web-Front-700x530-2.jpg");
+	background-size: 100% 100%;
+}
+/*action background*/
+#at{
+	background-image: url("best-action-adventure-games-resident-evil-4-remake.jpg");
+	background-size: 100% 100%;
+}
+
+/*content*/
+.tp{
+	/*height: 600px;*/
+	width: 1200px;
+	background-color: white;
+	margin-left: 150px;
+	font-family: Comic Sans MS;
+	font-size: 2em;
+	box-shadow: 2px 2px 15px;
+}
+.tp ul{
+	margin-top: -25px;
+}
+.tp img{
+	width: 1200px;
+	height: 600px;
+}
+.tp p{
+	margin-top: -20px;
+}
